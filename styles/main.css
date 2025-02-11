@@ -33,8 +33,9 @@ header h2{
     color: #f3670a;
 text-indent: 30px;
 }
-img{
-    margin: 1.5em 2em 1.5em;
+header img{
+    float: left;
+    margin-left: 2em;
 
 }
 .shadow{

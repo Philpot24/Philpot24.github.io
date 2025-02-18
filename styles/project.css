@@ -7,7 +7,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     width: 90%;
-    background-color: rgb(236, 148, 66);
+    background-color: rgb(130, 34, 150);
     margin: 15px auto;
     padding:15px 1.5em ;
     border: 1px solid black;
@@ -16,7 +16,7 @@ body{
 }
 a:hover, a:focus{
     font-style: italic;
-    color: orange;
+    color: rgb(11, 31, 53);
     border: 3px blue;
     border-style: dotted solid;
 }
@@ -36,7 +36,7 @@ header img{
 
 }
 .shadow{
-     text-shadow: 2px 2px 2px rgb(128, 0, 0);
+     text-shadow: 2px 2px 2px rgb(224, 27, 27);
 }
 article{
     clear: both;
@@ -64,7 +64,7 @@ article p::first-letter{
 aside{
     width: 20%;
     float: right;
-    background-color: #febc6f;
+    background-color: #8a7e70;
 }
 footer{
     clear: both;

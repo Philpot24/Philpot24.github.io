@@ -32,6 +32,9 @@ header h2{
 text-indent: 30px;
 border-bottom: 3em red;
 }
+header h3{
+    border-bottom: 3em red;
+}
 header img{
     float: left;
     margin-left: 2em;

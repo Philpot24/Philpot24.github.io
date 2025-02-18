@@ -59,7 +59,7 @@ article p::first-letter{
     font-family: 3em;
     font-weight: bold;
     font-style: italic;
-    color: lightcoral;
+    color: rgb(167, 128, 240);
 }
 aside{
     width: 20%;

@@ -58,6 +58,7 @@ article{
 }
 article h3{
     column-span: all;
+    border-bottom: 3em red;
 }
 article img{
     float: left;

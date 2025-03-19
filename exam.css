@@ -3,7 +3,7 @@ body {
     width: 95%;
     margin: 15px auto;
     font-family: Arial, sans-serif;
-    background-image: url('background.jpg'); 
+    background-image: url('background.jpg'); *include link 
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;

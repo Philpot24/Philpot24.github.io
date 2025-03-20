@@ -117,3 +117,9 @@ p {
     font-style: italic;
     float:;
 }
+footer {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100px; 
+}

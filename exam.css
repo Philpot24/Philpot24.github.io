@@ -87,6 +87,7 @@ article {
     padding: 20px;
     border-left: 2px solid black;
     column-count: 3;
+    column-rule: 2px dotted orange;
     column-gap: 20px;
 }
 

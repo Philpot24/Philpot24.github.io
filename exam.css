@@ -28,7 +28,7 @@ nav {
   nav ul li {
     flex: 1;
     text-align: center;
-    border-right: 1px solid white;
+    border-right: 1px solid rgb(61, 29, 29);
   }
   
   nav ul li:last-child {
@@ -41,11 +41,11 @@ nav {
     color: white;
     font-weight: bold;
     font-size: 1.1em;
-    background-color: #003366;
+    background-color: #84acd4;
   }
   
   nav ul li a:hover {
-    background-color: #0055aa;
+    background-color: #41aa00;
     transition: background-color 0.3s ease;
   }
 
@@ -61,7 +61,7 @@ aside {
     position: fixed;
     top: 120px;
     right: 10px;
-    background: lightblue;
+    background: rgb(236, 236, 41);
     padding: 15px;
     border: 2px solid black;
 }

@@ -2,7 +2,7 @@ body {
     width: 95%;
     margin: 15px auto;
     font-family: Arial, sans-serif;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NASA_logo.svg/512px-NASA_logo.svg.png');
+    background-image: url("images/PhoenixPIc.png");
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-position: right;

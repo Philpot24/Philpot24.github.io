@@ -53,22 +53,22 @@ table.third {
 table.third th,
 table.third td {
     padding: 0.7em;
-    border: 2px solid orangered;
+    border: 2px solid rgb(60, 28, 103);
     vertical-align: top;
 }
 
 table.third thead tr:first-child {
-    border-top: 2px solid orangered;
+    border-top: 2px solid rgb(127, 67, 45);
     background-color: lightgray;
 }
 
 table.third thead tr:nth-child(2) {
-    background-color: salmon;
+    background-color: rgb(38, 136, 147);
     font-weight: bold;
 }
 
 table.third tbody tr:last-child {
-    border-bottom: 2px solid orangered;
+    border-bottom: 2px solid rgb(33, 185, 78);
 }
 
 /*---------------- Responsive ----------------*/
